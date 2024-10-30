@@ -1,3 +1,4 @@
+import '../useWorker'
 import { h, render } from 'preact';
 //import { createRootFragment } from 'preact-root-fragment';
 import Play from './typescriptPlayground/src/templates/play';
