@@ -1,0 +1,15 @@
+{
+    "name": "typescript-playground",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "@typescript/sandbox": "workspace:*",
+        "@typescript/playground-tooling": "workspace:*",
+        "@typescript/playground-worker": "workspace:*",
+        "ts-node": "^10.9.1"
+    },
+    "devDependencies": {
+        "monaco-editor": "^0.32.1",
+        "typescript": "*"
+    }
+}

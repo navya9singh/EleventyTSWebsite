@@ -1,0 +1,12 @@
+{
+    "name": "@typescript/sandbox",
+    "version": "1.0.0",
+    "description": "A sandbox project using TypeScript and Preact",
+    "private": true,
+    "main": "index.ts",
+    "devDependencies": {
+        "monaco-editor": "^0.32.1",
+        "monaco-typescript": "^3.7.0",
+        "typescript": "*"
+    }
+}
